@@ -1,0 +1,10 @@
+{
+  "name": "eleventy-plugin-og-image-241",
+  "scripts": {
+    "serve": "npx @11ty/eleventy --serve --incremental"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "eleventy-plugin-og-image": "^2.1.3"
+  }
+}
